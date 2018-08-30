@@ -28,7 +28,7 @@ namespace WpfApplication1
 
         public override string ToString()
         {
-            return "Hello Mr" + name+" you live in " + Adress;
+            return "Hello Mr" + name+" you live : " + Adress;
         }
     }
 }
